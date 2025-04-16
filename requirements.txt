@@ -1,0 +1,17 @@
+jupyter
+librosa
+pandas
+pytorch_lightning
+scikit-learn
+seaborn
+soundfile
+tqdm
+TTS
+tensorboard
+wandb
+Flask==2.3.2
+TTS==0.22.0
+numpy
+scipy
+torch
+fsspec
